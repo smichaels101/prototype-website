@@ -5,3 +5,5 @@ PROTOTYPE WEBSITE
 =================
 
 The Best Prototype Website Ever
+
+Hello Scott - my first commit
